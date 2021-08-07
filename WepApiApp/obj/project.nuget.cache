@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I8VE8MuD4OSVHeO/6mJ5RIYUPCA16NTykVCNRgYSKilX4dMHsgK+xkCH1vyEEe7KIUC14hUfNLDcj6HwLu31/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\90538\\source\\repos\\WepApiApp\\WepApiApp\\WepApiApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\90538\\.nuget\\packages\\bogus\\33.0.2\\bogus.33.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
