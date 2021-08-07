@@ -9,8 +9,8 @@ namespace WepApiApp.FakeData
 {
     public static class CreateFakeVehicle
     {
-        public static List<Vehicle> _P;
 
+        //Creating fake car data.
         public static List<Vehicle> _vehicles;
         public static List<Vehicle> CreateVehicles()
         {
