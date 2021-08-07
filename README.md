@@ -6,5 +6,5 @@ Examples (in localhost) :
 Base url (example) : https://localhost:44359/api/Vehicles  
 
 Get vehicle by color : /bus/red
-Change car/bus Headlights : 10/true
+</br> Change car/bus Headlights : 10/true
 Delete Car :  /10  (vehicle index id)
